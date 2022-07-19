@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killianog
-- 👀 I’m interested in Umberella Accademy & Discord
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Notion API
+- 👀 I’m interested in Web development and JavaScript 
+- 🌱 I’m currently learning JavaScript 
+- 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me ...
 
 <!---
