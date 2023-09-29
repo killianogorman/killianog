@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killianog
-- 👀 I’m interested in Web development and JavaScript 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Web development 
+- 👀 I’m interested in Web development and Go 
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Web development/API development
 - 📫 How to reach me twitter
 
 <!---
